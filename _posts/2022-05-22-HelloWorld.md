@@ -1,7 +1,7 @@
 ---
 layout: mypost
-title: Mine
-categories: [0]
+title: Hello World!
+categories: [Test]
 ---
 
 Hello World!
