@@ -28,8 +28,7 @@
 <a href="http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe">Tesseract-OCR下载</a> &nbsp;
 </p>
 <hr>
-
 <h3><a href="https://pst.rth1.me/favorites.html"><s>3.1次元收藏夹</s></a><h3>
 <br>
-<a href="https://pst.rth1.me"><b>返回主站</b></a>
 
+[返回主站？](https://positron-yao.github.io/positron-yao)
