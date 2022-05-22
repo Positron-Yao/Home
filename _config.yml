@@ -1,7 +1,7 @@
 encoding: utf-8
 
 # SEO相关信息
-title: Positron's Land
+title: Positron's Phantasyland
 description: Sherry Positron's Website
 keywords: Positron,Blog,Python,Math
 author: Positron
@@ -35,6 +35,8 @@ menu:
     url: /pages/search.html
   - title: 友链
     url: /pages/links.html
+  - title: Wbh
+    url: /pages/webhelper.html
   - title: 关于
     url: /pages/about.html
 
