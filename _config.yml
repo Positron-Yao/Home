@@ -36,7 +36,7 @@ menu:
   - title: 友链
     url: /pages/links.html
   - title: Wbh
-    url: /pages/webhelper.html
+    url: /pages/webhelper.md
   - title: 关于
     url: /pages/about.html
 

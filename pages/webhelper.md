@@ -1,0 +1,35 @@
+<h1>知识の汪洋: </h1>
+<p class="xingkai">
+<a href="https://pst.rth1.me/webhelper/gzlib.html" target="_blank">贵州数字图书馆</a> &nbsp;
+<a href="https://www.cnki.net/" target="_blank">中国知网</a> &nbsp;
+<a href="http://www.iplant.cn/" target="_blank">iPlant 植物智</a> &nbsp;
+<a href="http://www.zoology.csdb.cn/" target="_blank">中国动物主题数据库</a> &nbsp;
+<a href="https://species.sciencereading.cn/" target="_blank">中国生物志库</a> &nbsp;
+<a href="http://www.csdb.cn/" target="_blank">中国科学院数据云</a> &nbsp;
+</p>
+<hr>
+
+<h1>各种在线工具: </h1>
+<p>
+<a href="https://www.zybuluo.com/mdeditor" target="_blank">Markdown在线</a> &nbsp;
+<a href="https://pc.qq.com/" target="_blank">腾讯软件中心</a> &nbsp;
+<a href="http://www.youdao.com/" target="_blank">有道翻译</a> &nbsp;
+<a href="https://translate.google.cn/" target="_blank">谷歌翻译</a> &nbsp; 
+<a href="https://www.beijing-time.org/" target="_blank">北京时间&时间工具</a> &nbsp;
+<a href="https://www.geogebra.org/classic" target="_blank">GeoGebra-经典</a>&nbsp&nbsp&nbsp
+<a href="http://www.dstang.com/books_dstang/geogebra_commands.html" target="_blank">Geogebra指令中英文对照查询</a>&nbsp
+<a href="https://gitee.com/" target="_blank">Gitee</a> &nbsp;
+</p>
+<hr>
+
+<h1>下载站: </h1>
+<p>
+<a href="https://www.typora.io/#windows">Markdown官网下载</a> &nbsp;
+<a href="http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe">Tesseract-OCR下载</a> &nbsp;
+</p>
+<hr>
+
+<h3><a href="https://pst.rth1.me/favorites.html"><s>3.1次元收藏夹</s></a><h3>
+<br>
+<a href="https://pst.rth1.me"><b>返回主站</b></a>
+
