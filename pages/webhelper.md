@@ -13,13 +13,13 @@ title: Wbh
 
 # 各种在线工具: 
 
-[Markdown在线](https://www.zybuluo.com/mdeditor) [腾讯软件中心](https://pc.qq.com/) [有道翻译](http://www.youdao.com/) [谷歌翻译](https://translate.google.cn/) [北京时间&时间工具](https://www.beijing-time.org/) [GeoGebra-经典](https://www.geogebra.org/classic) [Geogebra指令中英文对照查查询](http://www.dstang.com/books_dstang/geogebra_commands.html) [Gitee](https://gitee.com/)
+[Markdown在线](https://www.zybuluo.com/mdeditor) [腾讯软件中心](https://pc.qq.com/) [有道翻译](http://www.youdao.com/) [谷歌翻译](https://translate.google.cn/) [北京时间&时间工具](https://www.beijing-time.org/) [GeoGebra-经典](https://www.geogebra.org/classic) [Geogebra指令中英文对照查查询](http://www.dstang.com/books_dstang/geogebra_commands.html) [Gitee](https://gitee.com/)  [在线格式转换](https://www.aconvert.com/)  [GitHub简明教程](https://www.runoob.com/w3cnote/git-guide.html)
 
 ---
 
 # 下载站: 
 
-[Markdown官网下载](https://www.typora.io/#windows)  [Tesseract-OCR下载](http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe)
+[Markdown官网下载](https://www.typora.io/#windows)  [Tesseract-OCR下载](http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe)  [Git For Windows](https://gitforwindows.org/)
 
 ---
 
