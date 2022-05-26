@@ -28,7 +28,7 @@ tucaoUrl: https://www.bilibili.com
 # 可选字段 target: '_blank' 新页面打开 
 menu:
   - title: 首页
-    url: /
+    url: /pages/mainpage.html
   - title: 归类
     url: /pages/categories.html
   - title: 搜索
