@@ -8,7 +8,7 @@ PAGE是一款拖拽式Tkinter IDE，支持拖拽式界面开发及Python代码�
 
 ## 安装
 
-下载PAGE源码[压缩包](page.zip)或安装包，并将快捷方式中的 ``PAGE.bat`` 改为 ``PAGE.py`` （原版有一点点问题）。或通过PAGE.py直接运行。
+下载PAGE源码或安装包，并将快捷方式中的 ``PAGE.bat`` 改为 ``PAGE.py`` （原版有一点点问题）。或通过PAGE.py直接运行。
 
 ## 使用
 
