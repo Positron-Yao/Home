@@ -25,5 +25,5 @@ title: WebHelper
 
 ~~3.1次元收藏夹~~
 
-[返回主站？](https://positron-yao.github.io/positron-yao)
+[返回主站？](https://positron-yao.github.io/home)
 
