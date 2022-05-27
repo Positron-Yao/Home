@@ -24,13 +24,82 @@ PAGE是一款拖拽式Tkinter IDE，支持拖拽式界面开发及Python代码�
 
 下面大致写一下常用工具的用法及注意事项。
 
+### Button
 
+链接到一个函数，在 ``***_support.py`` 中，具体功能自己更改（默认是一个print）。
+
+记得写一个函数名！！
+
+![记得写一个函数名](按钮.png)
+
+### Canvas
+
+tk的绘图组件，就是绘图用的。
+
+### Checkbutton
+
+复选框
+
+### Entry
+
+单行输入框，记得打对勾。
+
+读取的时候用 ``var.get()`` ，设置值时用 ``var.set(value)`` 。
+
+### Frame
+
+框架，好看。
+
+### Label
+
+单行文本，设置成背景色就是透明的了（笑）。
+
+通过设置image属性可以把它变成一个图片：
+
+```python
+from PIL import Image, ImageTk
+
+    ...
+    root = tk.tk()
+    #在此操作
+    global img1
+    img1 = ImageTk.PhotoImage(Image.open("1.png"))
+    #结束操作
+    top = Toplevel1 (root)
+    ...
+    
+    ...
+    #在此加入
+    self.Label1.configure(image=img1)
+    ...
+    
+```
+
+
+
+### Labelframe
+
+带一个标题的Frame。
+
+### Listbox
+
+单选列表。
+
+### Message
+
+自动换行的Label。
+
+### Text
+
+多行的文本框。
 
 （鸽，有空再来写。
 
 ## 属性栏
 
-改各种属性的，记得打对勾。
+改各种属性的，记得打对勾（二次）。
+
+![记得打对勾](记得打对勾.png)
 
 ## 树状图
 
