@@ -6,6 +6,8 @@ categories: [Markdown, Chemistry]
 
 ## 化学环境：\\ce
 
+~~为什么渲染不了？？？？~~
+
 在Markdown中的数学公式（`$...$`或`$$...$$`）中，使用`\ce{expressions}`可以渲染化学式，如：
 $$
 \ce{  
