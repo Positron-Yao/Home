@@ -11,6 +11,10 @@ title: 3.1Favorites
 
 [OpenGL - Python](https://blog.csdn.net/xufive/article/details/86565130)  [Learn OpenGl](https://learnopengl-cn.github.io/)
 
+## Minecraft
+
+[HMCL 官网](https://hmcl.huangyuhui.net/)  [Littleskin](https://littleskin.cn/)  
+
 ## 轻小说
 
 [哔哩轻小说](https://w.linovelib.com/)  
