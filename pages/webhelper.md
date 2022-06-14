@@ -19,7 +19,7 @@ title: WebHelper
 
 # 下载站: 
 
-[Markdown官网下载](https://www.typora.io/#windows)  [Tesseract-OCR下载](http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe)  [Git For Windows](https://gitforwindows.org/)
+[Markdown官网下载](https://www.typora.io/#windows)  [Tesseract-OCR下载](http://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-4.00.00dev.exe)  [Git For Windows](https://gitforwindows.org/)  [PAGE-Tkinter 官网](http://page.sourceforge.net/)
 
 ---
 
