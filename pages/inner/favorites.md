@@ -9,12 +9,16 @@ title: 3.1Favorites
 
 ## Coding
 
-[OpenGL - Python](https://blog.csdn.net/xufive/article/details/86565130)  [Learn OpenGl](https://learnopengl-cn.github.io/)
+[菜鸟教程](https://www.runoob.com/)  [OpenGL - Python](https://blog.csdn.net/xufive/article/details/86565130)  [Learn OpenGl](https://learnopengl-cn.github.io/)
 
 ## Minecraft
 
 [HMCL 官网](https://hmcl.huangyuhui.net/)  [Littleskin](https://littleskin.cn/)  
 
+## 二次元の世界
+
+[蜜柑计划](https://mikanani.me)  [AGE](http://www.agedm.net/)  [AGE app](http://agefans.app/)(有时候上不去)  [动漫画](https://m.dmhuah.com/)  [动漫之家](https://m.dmzj.com/)  [Pixivic](https://m.pixivic.com/)
+
 ## 轻小说
 
-[哔哩轻小说](https://w.linovelib.com/)  
+[哔哩轻小说](https://w.linovelib.com/)
