@@ -8,7 +8,7 @@ author: Positron
 footerText: 'Copyright © 2077 心绮楼信息中心'
 
 # 这些不要动
-permalink: /diaries/:year/:month/:day/:title.html
+permalink: /posts/:year/:month/:day/:title.html
 kramdown:
   auto_ids: true
   input: GFM
