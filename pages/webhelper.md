@@ -3,7 +3,7 @@ layout: mypost
 title: WebHelper
 ---
 
-
+temp: [DiaryBook](https://positron-yao.github.io/home/diaries.html)
 
 # 知识の汪洋:
 
